@@ -8,5 +8,4 @@ def incitement(liczba_a,n):
 
     return w
 
-print(incitement(8,9))
 

@@ -9,4 +9,4 @@ def mProstokonrow(a,b,n):
         i+=1
     return h*dx
 
-print(mProstokonrow(0,10,10))
+

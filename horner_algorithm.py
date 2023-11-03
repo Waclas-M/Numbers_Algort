@@ -3,3 +3,4 @@ def horner(x,st,list):
     for i in range(1,st+1):
         y=y*x+list[i]
     return y
+

@@ -13,7 +13,7 @@ def zero_place(eps):
 
     return c
 
-print(round(zero_place(0.001),3))
+
 
 
 
